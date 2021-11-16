@@ -1,3 +1,5 @@
+//Esse código serve para consultar o ddd de algumas cidades do Brasil
+
 import java.io.IOException;
 import java.util.Scanner;
 
