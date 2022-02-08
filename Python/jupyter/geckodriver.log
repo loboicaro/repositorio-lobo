@@ -19,3 +19,583 @@ DevTools listening on ws://localhost:65156/devtools/browser/9711fcd0-ac40-461c-9
 JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
 JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
 [Parent 11408, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1644341872582	geckodriver	INFO	Listening on 127.0.0.1:61243
+1644341875616	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61244" "-no-remote" "-profile" "C:\\Users\\ICARO\\AppData\\Local\\Temp\\rust_mozprofileQrG24b"
+1644341876103	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ICARO\\AppData\\Local\\Temp\\rust_mozprofileQrG24b\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61244/devtools/browser/f40d4d8b-064d-4064-81fb-9c13866ea257
+1644341878905	Marionette	INFO	Listening on port 61249
+1644341879363	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1644341894490	Marionette	INFO	Stopped listening on port 61249
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1644344674166	geckodriver	INFO	Listening on 127.0.0.1:49911
+1644344677229	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49912" "-no-remote" "-profile" "C:\\Users\\ICARO\\AppData\\Local\\Temp\\rust_mozprofileqqEyUz"
+1644344677753	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ICARO\\AppData\\Local\\Temp\\rust_mozprofileqqEyUz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49912/devtools/browser/c7650eac-fdf8-4f4e-9bc3-2a6d0ccf8571
+1644344681005	Marionette	INFO	Listening on port 49917
+1644344681432	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1644344690882	Marionette	INFO	Stopped listening on port 49917
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1644346582768	geckodriver	INFO	Listening on 127.0.0.1:54237
+1644346585801	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54238" "-no-remote" "-profile" "C:\\Users\\ICARO\\AppData\\Local\\Temp\\rust_mozprofile3QfcS9"
+1644346586321	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ICARO\\AppData\\Local\\Temp\\rust_mozprofile3QfcS9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54238/devtools/browser/dc73fe38-4903-4f9e-8a4a-0907c988f3b8
+1644346589228	Marionette	INFO	Listening on port 54243
+1644346589500	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altaiatim-fe.c.ptin.corppt.com"
+1644346591280	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1644346989547	Marionette	INFO	Stopped listening on port 54243
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1644347698301	geckodriver	INFO	Listening on 127.0.0.1:58682
+1644347701366	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58683" "-no-remote" "-profile" "C:\\Users\\ICARO\\AppData\\Local\\Temp\\rust_mozprofile7dXwsn"
+1644347701798	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ICARO\\AppData\\Local\\Temp\\rust_mozprofile7dXwsn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58683/devtools/browser/fa90edea-bce8-4d54-b850-9bcfb811c65d
+1644347704804	Marionette	INFO	Listening on port 58688
+1644347705043	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altaiatim-fe.c.ptin.corppt.com"
+1644347706773	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1644348195569	Marionette	INFO	Stopped listening on port 58688
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+6-53c6-4536-81f5-0f8f436ede33
+1644347999191	Marionette	INFO	Listening on port 63481
+1644347999326	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altaiatim-fe.c.ptin.corppt.com"
+1644348001135	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1644348198118	Marionette	INFO	Stopped listening on port 63481
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1644348200221	geckodriver	INFO	Listening on 127.0.0.1:63976
+1644348203282	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63977" "-no-remote" "-profile" "C:\\Users\\ICARO\\AppData\\Local\\Temp\\rust_mozprofileRyobke"
+1644348203795	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ICARO\\AppData\\Local\\Temp\\rust_mozprofileRyobke\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63977/devtools/browser/44cc4ddc-6626-43ee-89d9-d759e60b93df
+1644348207111	Marionette	INFO	Listening on port 63982
+1644348207495	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altaiatim-fe.c.ptin.corppt.com"
+1644348209213	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1644348538461	Marionette	INFO	Stopped listening on port 63982
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+8	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altaiatim-fe.c.ptin.corppt.com"
+1644348330952	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altaiatim-fe.c.ptin.corppt.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altaiatim-fe.c.ptin.corppt.com"
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 335))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:335:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:733:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:242:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:650:12
+
+console.error: "Tried to call unwatchFronts for the 'a1644348939549	Marionette	INFO	Stopped listening on port 53507
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+ate of 'complete'.
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 335))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:335:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:733:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:242:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:650:12
+
+console.error: "Tried to call unwatchFronts for the 'accessibility' type on an already destroyed front 'windowGlobalTarget'."
+console.warn: ({})
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1644348938893	Marionette	INFO	Stopped listening on port 64037
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1644348973447	geckodriver	INFO	Listening on 127.0.0.1:50655
+1644348976477	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50656" "-no-remote" "-profile" "C:\\Users\\ICARO\\AppData\\Local\\Temp\\rust_mozprofilewQZ4iI"
+1644348976912	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ICARO\\AppData\\Local\\Temp\\rust_mozprofilewQZ4iI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50656/devtools/browser/c826a613-0cb5-446f-bea2-7ace1f409528
+1644348979931	Marionette	INFO	Listening on port 50661
+1644348980180	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altaiatim-fe.c.ptin.corppt.com"
+1644348981908	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1644348993929	Marionette	INFO	Stopped listening on port 50661
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1644349025957	geckodriver	INFO	Listening on 127.0.0.1:50707
+1644349029034	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50708" "-no-remote" "-profile" "C:\\Users\\ICARO\\AppData\\Local\\Temp\\rust_mozprofilejC8VRj"
+1644349029446	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ICARO\\AppData\\Local\\Temp\\rust_mozprofilejC8VRj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50708/devtools/browser/fbb32ee0-17c3-4960-853f-815578f1eb83
+1644349032421	Marionette	INFO	Listening on port 50713
+1644349032749	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altaiatim-fe.c.ptin.corppt.com"
+1644349034502	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altaiatim-fe.c.ptin.corppt.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altaiatim-fe.c.ptin.corppt.com"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1644350086376	Marionette	INFO	Stopped listening on port 50713
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altaiatim-fe.c.ptin.corppt.com"
+1644349116422	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1644349904981	Marionette	INFO	Stopped listening on port 50764
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "53610" "-no-remote" "-profile" "C:\\Users\\ICARO\\AppData\\Local\\Temp\\rust_mozprofileEzP3P3"
+1644349277021	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ICARO\\AppData\\Local\\Temp\\rust_mozprofileEzP3P3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53610/devtools/browser/20aacd21-c512-46fe-ba46-0256423e8e95
+1644349280146	Marionette	INFO	Listening on port 53615
+1644349280295	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altaiatim-fe.c.ptin.corppt.com"
+1644349282069	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1644349308111	Marionette	INFO	Stopped listening on port 53615
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1644349581309	geckodriver	INFO	Listening on 127.0.0.1:55310
+1644349584370	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55311" "-no-remote" "-profile" "C:\\Users\\ICARO\\AppData\\Local\\Temp\\rust_mozprofileoWjSoK"
+1644349584790	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ICARO\\AppData\\Local\\Temp\\rust_mozprofileoWjSoK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55311/devtools/browser/a594f851-840b-46fb-9f84-30167ff156e5
+1644349588004	Marionette	INFO	Listening on port 55317
+1644349588102	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altaiatim-fe.c.ptin.corppt.com"
+1644349590358	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1644349883323	Marionette	INFO	Stopped listening on port 55317
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altaiatim-fe.c.ptin.corppt.com"
+1644349655485	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1644349689756	Marionette	INFO	Stopped listening on port 58599
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1644349862152	geckodriver	INFO	Listening on 127.0.0.1:53552
+1644349865183	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53553" "-no-remote" "-profile" "C:\\Users\\ICARO\\AppData\\Local\\Temp\\rust_mozprofile2SOskj"
+1644349865614	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ICARO\\AppData\\Local\\Temp\\rust_mozprofile2SOskj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53553/devtools/browser/1071f0a6-aaaf-4a68-af06-8138851867a5
+1644349868681	Marionette	INFO	Listening on port 53558
+1644349868880	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altaiatim-fe.c.ptin.corppt.com"
+1644349870679	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1644349881872	Marionette	INFO	Stopped listening on port 53558
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1644350059536	geckodriver	INFO	Listening on 127.0.0.1:56395
+1644350062582	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56396" "-no-remote" "-profile" "C:\\Users\\ICARO\\AppData\\Local\\Temp\\rust_mozprofileGYeDoM"
+1644350063007	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ICARO\\AppData\\Local\\Temp\\rust_mozprofileGYeDoM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56396/devtools/browser/57318086-f7de-46ba-919e-a187d236305e
+1644350066195	Marionette	INFO	Listening on port 56401
+1644350066291	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altaiatim-fe.c.ptin.corppt.com"
+1644350068889	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1644350084259	Marionette	INFO	Stopped listening on port 56401
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1644350239572	geckodriver	INFO	Listening on 127.0.0.1:56905
+1644350242596	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56906" "-no-remote" "-profile" "C:\\Users\\ICARO\\AppData\\Local\\Temp\\rust_mozprofile2corAu"
+1644350243030	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ICARO\\AppData\\Local\\Temp\\rust_mozprofile2corAu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56906/devtools/browser/3f452459-356b-47bb-bd3d-8d78ac80994b
+1644350246117	Marionette	INFO	Listening on port 56911
+1644350246316	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altaiatim-fe.c.ptin.corppt.com"
+1644350248073	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+SourceActor threw an exception: Error: Failed to fetch https://altaiatim-fe.c.ptin.corppt.com/idp/login. Code 2153398258.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://altaiatim-fe.c.ptin.corppt.com/idp/login. Code 2153398258.", "resource://devtools/shared/DevToolsUtils.js", 556))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://altaiatim-fe.c.ptin.corppt.com/idp/login. Code 2153398258.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1644351110442	Marionette	INFO	Stopped listening on port 56911
+d for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altaiatim-fe.c.ptin.corppt.com"
+1644350289332	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1644350304136	Marionette	INFO	Stopped listening on port 56961
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1644350641056	geckodriver	INFO	Listening on 127.0.0.1:56735
+1644350644118	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56736" "-no-remote" "-profile" "C:\\Users\\ICARO\\AppData\\Local\\Temp\\rust_mozprofileSGfPBH"
+1644350644551	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ICARO\\AppData\\Local\\Temp\\rust_mozprofileSGfPBH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56736/devtools/browser/3fa1bf22-d25b-4058-a864-d3f8b4a17201
+1644350647673	Marionette	INFO	Listening on port 56741
+1644350647817	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altaiatim-fe.c.ptin.corppt.com"
+1644350649597	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1644350880955	Marionette	INFO	Stopped listening on port 56741
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 11876, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+4", (void 0)))
+DevTools listening on ws://localhost:56810/devtools/browser/d197c516-91fb-43dc-a2ee-a0e69c6ac89c
+1644350748091	Marionette	INFO	Listening on port 56815
+1644350748581	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1644350883028	Marionette	INFO	Stopped listening on port 56815
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1644350996295	geckodriver	INFO	Listening on 127.0.0.1:59094
+1644350999358	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59095" "-no-remote" "-profile" "C:\\Users\\ICARO\\AppData\\Local\\Temp\\rust_mozprofile4qtxAj"
+1644350999767	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ICARO\\AppData\\Local\\Temp\\rust_mozprofile4qtxAj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59095/devtools/browser/51a6a824-12a3-4944-8d18-2c991e07d151
+1644351002525	Marionette	INFO	Listening on port 59100
+1644351003041	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altaiatim-fe.c.ptin.corppt.com"
+1644351004803	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1644351111327	Marionette	INFO	Stopped listening on port 59100
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "56931" "-no-remote" "-profile" "C:\\Users\\ICARO\\AppData\\Local\\Temp\\rust_mozprofileOCuoYf"
+1644351084835	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ICARO\\AppData\\Local\\Temp\\rust_mozprofileOCuoYf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56931/devtools/browser/a68226de-bd2b-4238-9a54-94c0cdd54a9d
+1644351087742	Marionette	INFO	Listening on port 56936
+1644351088131	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altaiatim-fe.c.ptin.corppt.com"
+1644351089870	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1644351108169	Marionette	INFO	Stopped listening on port 56936
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1644351145102	geckodriver	INFO	Listening on 127.0.0.1:51447
+1644351148173	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51448" "-no-remote" "-profile" "C:\\Users\\ICARO\\AppData\\Local\\Temp\\rust_mozprofileevibe4"
+1644351148625	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ICARO\\AppData\\Local\\Temp\\rust_mozprofileevibe4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51448/devtools/browser/921f0f75-924d-4ced-9d2e-837ddbe848e5
+1644351151815	Marionette	INFO	Listening on port 51453
+1644351151888	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altaiatim-fe.c.ptin.corppt.com"
+1644351153616	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altaiatim-fe.c.ptin.corppt.com"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1644351548180	Marionette	INFO	Stopped listening on port 51453
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+51246232	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ICARO\\AppData\\Local\\Temp\\rust_mozprofileY7EEQE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61684/devtools/browser/85ccc36c-5165-42c3-af33-fb09010fac39
+1644351249400	Marionette	INFO	Listening on port 61689
+1644351249543	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altaiatim-fe.c.ptin.corppt.com"
+1644351251300	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1644351348996	Marionette	INFO	Stopped listening on port 61689
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+ NotFoundError("Could not open the file at C:\\Users\\ICARO\\AppData\\Local\\Temp\\rust_mozprofilegXBKUt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51608/devtools/browser/1da02a58-1a07-4d13-91ed-06b2bb42d6f7
+1644351311633	Marionette	INFO	Listening on port 51613
+1644351311789	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altaiatim-fe.c.ptin.corppt.com"
+1644351313546	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altaiatim-fe.c.ptin.corppt.com"
+1644351350012	Marionette	INFO	Stopped listening on port 51613
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1644351367082	geckodriver	INFO	Listening on 127.0.0.1:51660
+1644351370124	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51661" "-no-remote" "-profile" "C:\\Users\\ICARO\\AppData\\Local\\Temp\\rust_mozprofilev1TPmu"
+1644351370549	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ICARO\\AppData\\Local\\Temp\\rust_mozprofilev1TPmu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51661/devtools/browser/a4296fad-d04e-435a-960e-4458afe37dbf
+1644351373738	Marionette	INFO	Listening on port 51666
+1644351373840	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altaiatim-fe.c.ptin.corppt.com"
+1644351375653	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altaiatim-fe.c.ptin.corppt.com"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1644351549318	Marionette	INFO	Stopped listening on port 51666
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+e0953b62a
+1644351468719	Marionette	INFO	Listening on port 51723
+1644351468882	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altaiatim-fe.c.ptin.corppt.com"
+1644351470631	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altaiatim-fe.c.ptin.corppt.com"
+1644351495302	Marionette	INFO	Stopped listening on port 51723
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1644351514698	geckodriver	INFO	Listening on 127.0.0.1:51768
+1644351517751	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51769" "-no-remote" "-profile" "C:\\Users\\ICARO\\AppData\\Local\\Temp\\rust_mozprofileZ5Hqls"
+1644351518239	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ICARO\\AppData\\Local\\Temp\\rust_mozprofileZ5Hqls\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51769/devtools/browser/ca22a1c4-29ec-4e0a-853f-ab9e4b9c788e
+1644351521359	Marionette	INFO	Listening on port 51775
+1644351521447	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altaiatim-fe.c.ptin.corppt.com"
+1644351523283	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altaiatim-fe.c.ptin.corppt.com"
+1644351549982	Marionette	INFO	Stopped listening on port 51775
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1644351630421	geckodriver	INFO	Listening on 127.0.0.1:53185
+1644351633468	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53186" "-no-remote" "-profile" "C:\\Users\\ICARO\\AppData\\Local\\Temp\\rust_mozprofileWOU11c"
+1644351633928	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ICARO\\AppData\\Local\\Temp\\rust_mozprofileWOU11c\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53186/devtools/browser/8ba2c2a8-05ba-4523-bf7e-3fe2442694dd
+1644351637075	Marionette	INFO	Listening on port 53191
+1644351637190	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altaiatim-fe.c.ptin.corppt.com"
+1644351638937	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altaiatim-fe.c.ptin.corppt.com"
+1644351997141	Marionette	INFO	Stopped listening on port 53191
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+64	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altaiatim-fe.c.ptin.corppt.com"
+1644351698424	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altaiatim-fe.c.ptin.corppt.com"
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1644351998014	Marionette	INFO	Stopped listening on port 53240
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+", (void 0)))
+DevTools listening on ws://localhost:49461/devtools/browser/ae69118c-317a-4ec3-8a82-ade829bc6901
+1644351905636	Marionette	INFO	Listening on port 49468
+1644351905755	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altaiatim-fe.c.ptin.corppt.com"
+1644351907534	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altaiatim-fe.c.ptin.corppt.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altaiatim-fe.c.ptin.corppt.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altaiatim-fe.c.ptin.corppt.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altaiatim-fe.c.ptin.corppt.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altaiatim-fe.c.ptin.corppt.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altaiatim-fe.c.ptin.corppt.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altaiatim-fe.c.ptin.corppt.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altaiatim-fe.c.ptin.corppt.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altaiatim-fe.c.ptin.corppt.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altaiatim-fe.c.ptin.corppt.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1644351998995	Marionette	INFO	Stopped listening on port 49468
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1644352003123	geckodriver	INFO	Listening on 127.0.0.1:49520
+1644352006181	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49521" "-no-remote" "-profile" "C:\\Users\\ICARO\\AppData\\Local\\Temp\\rust_mozprofileNFMhZF"
+1644352006587	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ICARO\\AppData\\Local\\Temp\\rust_mozprofileNFMhZF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49521/devtools/browser/03fcdd0f-56d8-4f77-b730-28f5b599a50e
+1644352009523	Marionette	INFO	Listening on port 49526
+1644352009877	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altaiatim-fe.c.ptin.corppt.com"
+1644352011537	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altaiatim-fe.c.ptin.corppt.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altaiatim-fe.c.ptin.corppt.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altaiatim-fe.c.ptin.corppt.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altaiatim-fe.c.ptin.corppt.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altaiatim-fe.c.ptin.corppt.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altaiatim-fe.c.ptin.corppt.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altaiatim-fe.c.ptin.corppt.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altaiatim-fe.c.ptin.corppt.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altaiatim-fe.c.ptin.corppt.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altaiatim-fe.c.ptin.corppt.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1644352528574	Marionette	INFO	Stopped listening on port 49526
+e-debugging-port" "64851" "-no-remote" "-profile" "C:\\Users\\ICARO\\AppData\\Local\\Temp\\rust_mozprofile3xp0zy"
+1644352170441	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ICARO\\AppData\\Local\\Temp\\rust_mozprofile3xp0zy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64851/devtools/browser/ca3bfa89-7c42-4418-928e-145ef113e322
+1644352173603	Marionette	INFO	Listening on port 64856
+1644352173658	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altaiatim-fe.c.ptin.corppt.com"
+1644352175404	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altaiatim-fe.c.ptin.corppt.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altaiatim-fe.c.ptin.corppt.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altaiatim-fe.c.ptin.corppt.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altaiatim-fe.c.ptin.corppt.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altaiatim-fe.c.ptin.corppt.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altaiatim-fe.c.ptin.corppt.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altaiatim-fe.c.ptin.corppt.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altaiatim-fe.c.ptin.corppt.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altaiatim-fe.c.ptin.corppt.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altaiatim-fe.c.ptin.corppt.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altaiatim-fe.c.ptin.corppt.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altaiatim-fe.c.ptin.corppt.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altaiatim-fe.c.ptin.corppt.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altaiatim-fe.c.ptin.corppt.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altaiatim-fe.c.ptin.corppt.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altaiatim-fe.c.ptin.corppt.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altaiatim-fe.c.ptin.corppt.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altaiatim-fe.c.ptin.corppt.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1644352529623	Marionette	INFO	Stopped listening on port 64856
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+oundError("Could not open the file at C:\\Users\\ICARO\\AppData\\Local\\Temp\\rust_mozprofileYjDv9j\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51548/devtools/browser/7624ccd5-1822-470d-bc24-768932bc5adb
+1644352391639	Marionette	INFO	Listening on port 51553
+1644352391821	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altaiatim-fe.c.ptin.corppt.com"
+1644352393473	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altaiatim-fe.c.ptin.corppt.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altaiatim-fe.c.ptin.corppt.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altaiatim-fe.c.ptin.corppt.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altaiatim-fe.c.ptin.corppt.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altaiatim-fe.c.ptin.corppt.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altaiatim-fe.c.ptin.corppt.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altaiatim-fe.c.ptin.corppt.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altaiatim-fe.c.ptin.corppt.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altaiatim-fe.c.ptin.corppt.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altaiatim-fe.c.ptin.corppt.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altaiatim-fe.c.ptin.corppt.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altaiatim-fe.c.ptin.corppt.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
