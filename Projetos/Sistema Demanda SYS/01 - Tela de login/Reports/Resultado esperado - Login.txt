@@ -1,0 +1,4 @@
+#Login
+Dado que acesso a página de login
+Quando submeto o meu login com o nome de usuário e senha de acesso
+Então devo ser redirecionado para a área logada
