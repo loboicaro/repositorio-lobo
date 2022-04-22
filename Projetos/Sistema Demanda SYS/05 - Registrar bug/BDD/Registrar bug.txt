@@ -1,0 +1,6 @@
+1 - Sendo um usuário do sistema Demanda SYS
+2 - Quero acessar a seção de "Registro de bugs"
+3 - Para que eu possa controlar o fluxo de bugs encontrados e gerenciar a resolução destes bugs
+
+
+

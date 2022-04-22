@@ -1,0 +1,27 @@
+1 - Sendo um usuário do sistema Demanda SYS
+2 - Quero acessar o painel de demandas e pesquisar por elas
+3 - Para que eu possa visualizar as demandas em geral e verificar o tipo de demanda
+e status de execução de cada uma delas 
+
+
+
+#Pesquisar demanda por código
+Dado que acesso o painel de demandas
+Quando submeto na barra de pesquisa o código da demanda
+E clico no botão de pesquisa
+Então devo receber a demanda pequisada
+
+#Pesquisar demanda por nome
+Dado que acesso o painel de demandas
+Quando submeto na barra de pesquisa o nome da demanda
+E clico no botão de pesquisa
+Então devo receber a demanda pequisada
+
+#Pesquisar demanda por status
+Dado que acesso o painel de demandas
+Quando submeto na barra de pesquisa o status da demanda
+E clico no botão de pesquisa
+Então devo receber as demandas com o status pesquisado
+
+
+

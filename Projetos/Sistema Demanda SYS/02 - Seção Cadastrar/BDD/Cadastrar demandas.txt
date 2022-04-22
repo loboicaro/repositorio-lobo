@@ -4,11 +4,18 @@
 
 
 
-#Login
+#Cadastro de demanda completa
 Dado que acesso a seção "Cadastrar"
 Quando submeto o código do projeto
 E dou um nome para a demanda
-E marco o tipo da demanda
+E marco o tipo da demanda como "completa"
 E submeto a quantidade de cenários
+Então devo visualizar a mensagem; " Cadastro realizado com sucesso!"
+
+#Cadastro de demanda parcial
+Dado que acesso a seção "Cadastrar"
+Quando submeto o código do projeto
+E dou um nome para a demanda
+E marco o tipo da demanda como "parcial"
 Então devo visualizar a mensagem; " Cadastro realizado com sucesso!"
 

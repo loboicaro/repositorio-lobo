@@ -1,0 +1,25 @@
+1 - Sendo um usuário do sistema Demanda SYS
+2 - Quero acessar uma demanda
+3 - Associar um responsável e alterar o status da demanda
+4 - Afim de manter atualizado o fluxo de trabalho 
+
+
+
+#Associar um responsável pela demanda 
+Dado que acesso o painel de demandas
+Quando pesquiso por uma demanda 
+E clico no botão "Detalhar"
+E associo um responsável pela demanda
+Então devo ter um responsável associado à demanda
+
+
+#Alterar status da demanda
+Dado que acesso o painel de demandas
+Quando pesquiso por uma demanda 
+E clico no botão "Detalhar"
+E altero o status da demanda
+Então devo ter a demanda com status alterado
+
+
+
+

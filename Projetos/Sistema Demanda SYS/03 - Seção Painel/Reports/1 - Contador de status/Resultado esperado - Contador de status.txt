@@ -1,0 +1,4 @@
+#Contador de status
+Dado que estou na dashboard de "Painel" de demandas
+E aponto o mouse em cima do contador de status 
+Então devo visualizar o título de cada tipo de status e a quantidade de demandas em cada tipo de status
