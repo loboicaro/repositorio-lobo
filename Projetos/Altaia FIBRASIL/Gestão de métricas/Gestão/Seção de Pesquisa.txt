@@ -1,0 +1,35 @@
+Pesquisa por "Classes":
+
+- Navegando pela combobox;
+- Digitando o nome da classe (alternar para a opção "pesquisa livre").
+
+Pesquisa por "Família":
+
+- Navegando pela combobox;
+- Digitando o nome da família (alternar para a opção "pesquisa livre").
+
+Pesquisa por "Nome":
+
+- Trará todos os resultados com base no que eu escrever dentro da box.
+
+Pesquisa por Periodicidade: 
+
+- Trará todos os resultados com base na periodicidade que eu escolher como filtro 
+(pode ser mais de uma opção).
+
+Pesquisa por Tipo:
+
+- Trará todos os resultados com base no tipo (pode ser mais de um) selecionado.
+
+Pesquisa por Confiabilidade:
+
+- Trará todos os resultados com base na confiabilidade selecionada.
+
+
+Botão de "limpar" - Deverá limpar todas as opções de modelagem da pesquisa antes 
+selecionadas.
+
+Botão de "pesquisar" - Retornará a consulta com base nas opções de modelagem da pesquisa
+antes selecionadas.
+
+

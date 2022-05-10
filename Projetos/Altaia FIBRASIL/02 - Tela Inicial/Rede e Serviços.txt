@@ -1,0 +1,12 @@
+1 - Sendo um usuário do sistema Altaia Fibrasil
+2 - Quero acessar o módulo de Rede e Serviços
+3 - Para que eu possa visualizar os domínio de serviço
+
+
+
+#Rede e Serviços 
+Dado que acesso a página de inicial do Altaia
+Quando clico no botão "Rede e Serviços" no menu superior
+Então devo ser redirecionado para a área de domínios de rede
+
+
